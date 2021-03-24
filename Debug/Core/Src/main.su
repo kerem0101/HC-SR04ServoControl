@@ -1,0 +1,9 @@
+main.c:59:6:delay_us	16	static
+main.c:65:10:Read_HCSR04	16	static
+main.c:92:5:main	8	static
+main.c:155:6:SystemClock_Config	80	static
+main.c:193:13:MX_TIM1_Init	32	static
+main.c:239:13:MX_TIM3_Init	64	static
+main.c:298:13:MX_USART2_UART_Init	8	static
+main.c:333:13:MX_GPIO_Init	56	static
+main.c:375:6:Error_Handler	8	static,ignoring_inline_asm
